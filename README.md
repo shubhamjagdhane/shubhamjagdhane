@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 At ByteAlly I’m currently working on **[Haskell Purely Functional Programming Language](https://haskell.org)**
-- <img src="https://img.icons8.com/android/14/ffffff/cool.png"/> &nbsp; I'm always ready to learn things which I haven't worked on
+- <img src="https://img.icons8.com/android/14/ffffff/cool.png"/> &nbsp;I'm always ready to learn things which I haven't worked on
 - <img src="https://img.icons8.com/material-rounded/14/ffffff/code.png"/> &nbsp;In industry nobody is going to trust on your code, so <b>I always test my code</b>
 - 👯 I'm open to collaborate on **OpenSource Projects** in my spare time
 - 🌱 I also like to read non-technical books in my spare time
