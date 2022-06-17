@@ -1,11 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi I'm Subham Jagdhane</h1>
-<h3 align="center">I'm Software Developer @<a href="https://byteally.com" target="_blank">ByteAlly</a></h3>
+<h3 align="center">I'm Software Engineer-II @<a href="https://ayoconnect.id" target="_blank">Ayoconnect</a> <span class="font-size:12px;">(Southeast Asia's Largest Open Finance Platform)</span></h3>
+<h5 align="center">Ex-ByteAlly worked on <a href="https://haskell.org" target="_blank">Haskell Purely Functional Programming Language</a> & <a href="https://reflex-frp.org/" target="_blank">Reflex-FRP</a></h5>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 At ByteAlly I’m currently working on **[Haskell Purely Functional Programming Language](https://haskell.org)**
+- 🔭 At Ayoconnect I’m currently working on **[Golang](https://go.dev/)** 
+- My reponsibilities are to increase code coverage, remove code smells from repositories and develop new integrations
 - <img src="https://img.icons8.com/android/14/ffffff/cool.png"/> &nbsp;I'm always ready to learn things which I haven't worked on
 - <img src="https://img.icons8.com/material-rounded/14/ffffff/code.png"/> &nbsp;In industry nobody is going to trust on your code, so <b>I always test my code</b>
 - 👯 I'm open to collaborate on **OpenSource Projects** in my spare time
