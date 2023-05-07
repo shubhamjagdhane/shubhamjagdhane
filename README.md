@@ -7,7 +7,10 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 At Ayoconnect I’m currently working on **[Golang](https://go.dev/)** 
-- My reponsibilities are to increase code coverage, remove code smells from repositories and develop new integrations
+- I manages more than 10 microservices
+- Design an architecture for a product
+- Manages Direct-Debit flow
+- Implementes well tested, benchmarked custom in house packages, list goes on...
 - <img src="https://img.icons8.com/android/14/ffffff/cool.png"/> &nbsp;I'm always ready to learn things which I haven't worked on
 - <img src="https://img.icons8.com/material-rounded/14/ffffff/code.png"/> &nbsp;In industry nobody is going to trust on your code, so <b>I always test my code</b>
 - 👯 I'm open to collaborate on **OpenSource Projects** in my spare time
