@@ -1,19 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi I'm Subham Jagdhane</h1>
-<h3 align="center">I'm Software Engineer-II @<a href="https://ayoconnect.id" target="_blank">Ayoconnect</a> <span class="font-size:12px;">(Southeast Asia's Largest Open Finance Platform)</span></h3>
+<h3 align="center">I'm Software Engineer @<a href="https://viu.com" target="_blank">Viu</a> <span class="font-size:12px;">(OTT platform having more than 60Millions Monthly Active users as of 2022)</span></h3>
+<h5 align="center">Ex-Ayoconnect worked on designing architecture for Virtual Account, manages more than 10 microservices, database architecture. Implemented Rate Limiter, request-response validator, logger and various other custom packages</h5>
 <h5 align="center">Ex-ByteAlly worked on <a href="https://haskell.org" target="_blank">Haskell Purely Functional Programming Language</a> & <a href="https://reflex-frp.org/" target="_blank">Reflex-FRP</a></h5>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 At Ayoconnect I’m currently working on **[Golang](https://go.dev/)** 
-- I manages more than 10 microservices
-- Design an architecture for a product
-- Manages Direct-Debit flow
-- Implementes well tested, benchmarked custom in house packages, list goes on...
+- 🔭 At Viu I’m currently working on **[Golang](https://go.dev/)** 
+- Working on the Unified Billing System
+- Doing some POC
 - <img src="https://img.icons8.com/android/14/ffffff/cool.png"/> &nbsp;I'm always ready to learn things which I haven't worked on
 - <img src="https://img.icons8.com/material-rounded/14/ffffff/code.png"/> &nbsp;In industry nobody is going to trust on your code, so <b>I always test my code</b>
-- 👯 I'm open to collaborate on **OpenSource Projects** in my spare time
+- 👯 I'm open to collaborate on **OpenSource Projects**
 - 🌱 I also like to read non-technical books in my spare time
 - ⚡ Fun fact **I often go to the gym but I'm foodie**
 - 📫 You can reach me @**me.shubhamjagdhane@gmail.com**
@@ -43,6 +42,7 @@
 
 <p align="left">
   <a href="https://docker.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/docker.png"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/google-cloud.png"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
