@@ -1,9 +1,29 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi I'm Subham Jagdhane</h1>
-<h3 align="center">I'm Software Engineer @<a href="https://viu.com" target="_blank">Viu</a> <span class="font-size:12px;">(OTT platform having more than 60Millions Monthly Active users as of 2022)</span></h3>
-<h5 align="center">Ex-Ayoconnect worked on designing architecture for Virtual Account, manages more than 10 microservices, database architecture. Implemented Rate Limiter, request-response validator, logger and various other custom packages</h5>
-<h5 align="center">Ex-ByteAlly worked on <a href="https://haskell.org" target="_blank">Haskell Purely Functional Programming Language</a> & <a href="https://reflex-frp.org/" target="_blank">Reflex-FRP</a></h5>
+<h3 align="center">I'm Software Engineer @<a href="https://viu.com" target="_blank">Viu</a><br /><span class="font-size:12px;">(OTT platform having more than 60Millions Monthly Active users as of 2022)</span></h3>
+<br />
+<br />
+<br />
+
+## Previous Organization
+Ayoconnect:  
+- Implemented Virtual Account from scratch
+- Designed Database Architecture for the Virtual Account project
+- Restructured Virtual Account project with Domain-Driven-Design
+- Implemented Rate Limiter for Direct Debit
+- Decreased development time for adding new bank's into Direct-Debit integration from weeks to couple of days by refactoring the various services 
+- Implemented well tested, benchmarked custom in house packages
+- Manages and maintains more than 10 microservices
+- Written optimized query 
+
+ByteAlly:
+- worked on <a href="https://haskell.org" target="_blank">Haskell Purely Functional Programming Language</a>
+- Used <a href="https://reflex-frp.org/" target="_blank">Reflex-FRP</a> for building good looking web pages
+- Handled more than 10 retailers integration
+- Handled CI-CD pipeline with Gitlab-Runner
+  </ul>
+</div>
 
 ## 🙋‍♂️ About Me
 
@@ -33,9 +53,10 @@
 ## <img src="https://img.icons8.com/fluent/16/000000/database.png"/> Databases:
 
 <p align="left">
-  <a style="padding-right:8px;" href="https://www.postgresql.org//" target="_blank"><img src="https://img.icons8.com/color/38/000000/postgreesql.png"/></a>
-  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+  <a style="padding-right:8px;" href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/38/000000/postgreesql.png"/></a>
+  <a style="padding-right:8px;" href="https://www.mysql.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+  <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>
+  <a style="padding-right:8px;" href="https://redis.io" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/redis.png" alt="redis"/></a>
 </p>
 
 ## 🚀 Tools:
